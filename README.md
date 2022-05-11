@@ -1,5 +1,3 @@
-# Applied-Data-Science-Capstone
-
 # testrepo
 
 ## Editing the file
